@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+}
+
+button.nb{
+    background-color: grey;
+    width: 40px;
+    height: auto;
+    border-radius: 20px;
+}
+
+button.egal{
+    width: 80px;
+}
+
+div.main > div{
+    margin-bottom: 20px;
+}
+
+input#input{
+    border: 2px solid black;
+    width: 100%;
+    margin-top: 20px;
+}
+div.main{
+    box-shadow: 0 0 10px 0 black;
+    width: auto;
+    position: absolute;
+    transform: translate(50%, 50%);
+}
+#sup{
+    color: red;
+}
